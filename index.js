@@ -1,3 +1,4 @@
 const html = require('./lib/html/html');
+const js = require('./lib/js/js');
 
-module.exports = {html};
+module.exports = {html, js};
